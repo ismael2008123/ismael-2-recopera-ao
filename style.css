@@ -1,0 +1,14 @@
+:root{
+    --cor-da-fonte:black;
+    --cor-fundo-cabeçalho:black;
+    --cor-do-fundo:red;
+    --cor-fonte-cabeçalho:white; 
+}
+body{
+    color:var(--cor-da-fonte);
+    background-color: var(--cor-do-fundo);
+}
+header{
+    color: var(--cor-fonte-cabeçalho);
+    background-color: var(--cor-fundo-cabeçalho);
+}
